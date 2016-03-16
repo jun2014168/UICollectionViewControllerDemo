@@ -1,0 +1,2 @@
+# UICollectionViewControllerDemo
+常见的相册显示效果和流行实用的瀑布流效果，非常的纯洁，耦合性低，方便快速应用到项目中
